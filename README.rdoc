@@ -1,6 +1,6 @@
 PDFJS RAILS Engine
 
-{<img src="https://badge.fury.io/gh/Nabcloud%2Fpdfjs-rails-engine.png" alt="GitHub version" />}[http://badge.fury.io/gh/Nabcloud%2Fpdfjs-rails-engine
+{<img src="https://badge.fury.io/gh/Nabcloud%2Fpdfjs-rails-engine.png" alt="GitHub version" />}[http://badge.fury.io/gh/Nabcloud%2Fpdfjs-rails-engine]
 
 Modified to use ERB instead of HAML
 
