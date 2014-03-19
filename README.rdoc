@@ -1,5 +1,9 @@
 PDFJS RAILS Engine
 
+{<img src="https://badge.fury.io/gh/Nabcloud%2Fpdfjs-rails-engine.png" alt="GitHub version" />}[http://badge.fury.io/gh/Nabcloud%2Fpdfjs-rails-engine
+
+Modified to use ERB instead of HAML
+
 This gem integrate Mozilla's awesome PDF.jS javascript library to your Rails project. Here is the original pdf.js repo: https://github.com/mozilla/pdf.js/
 
 NOTE: This is not yet optimized. Only experimental. Only works with pdfs stored in your rails app.
